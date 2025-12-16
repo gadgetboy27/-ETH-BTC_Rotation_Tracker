@@ -1,0 +1,5 @@
+{
+  "name": "RatioPulse - ETH/BTC Rotation Tracker",
+  "description": "A quantitative finance dashboard tracking the ETH/BTC ratio, Moving Averages, Z-Scores, and Bitcoin Dominance to provide data-driven rotation signals.",
+  "requestFramePermissions": []
+}
